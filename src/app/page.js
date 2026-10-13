@@ -266,12 +266,12 @@ export default function Home() {
           Three days later, she checked out. One week later, she got a message: her wallet balance was zero. Then screenshots from her cloud album — including private photos. The last message: <em>“Send 50,000 USDT, or the photos go public.”</em>
         </p>
         <p>
-          She did not pay. She called police, deleted social media and left Dubai. But some photos had spread. Her ,000 was gone.
+          She did not pay. She called police, deleted social media and left Dubai. But some photos had spread. Her $200,000 was gone.
         </p>
 
-        <h2>Home: Router hacked, ,000 stolen</h2>
+        <h2>Home: Router hacked, $80,000 stolen</h2>
         <p>
-          That same week, Ahmed, a local resident in Mirdif, opened his crypto wallet. About ,000 in Ethereum and stablecoins had vanished. No fake link. No strange pop-up. The hacker got in through his home router — default password, never updated in three years. They got into his wallet’s connection and stole the login key. His home security cameras had also been accessed.
+          That same week, Ahmed, a local resident in Mirdif, opened his crypto wallet. About $80,000 in Ethereum and stablecoins had vanished. No fake link. No strange pop-up. The hacker got in through his home router — default password, never updated in three years. They got into his wallet’s connection and stole the login key. His home security cameras had also been accessed.
         </p>
 
         <h2>What the UAE Cybersecurity Council says</h2>
@@ -285,14 +285,12 @@ export default function Home() {
         </p>
 
         <h2>What you should do</h2>
-        <ul className="action-checklist">
-          <li><strong>Never open your wallet, bank app or cloud album on public WiFi.</strong> Use mobile data.</li>
-          <li><strong>Turn off auto-connect.</strong> Ask hotel staff for the exact WiFi name.</li>
-          <li><strong>At home:</strong> Change the router’s default password. Use WPA3. Give guests a separate network. Update the router software.</li>
-          <li><strong>If you must use public WiFi,</strong> turn on a reliable VPN.</li>
-          <li><strong>Cold storage:</strong> Keep large amounts in a hardware wallet. Never type your recovery words on any internet-connected device.</li>
-          <li><strong>If blackmailed, do not pay.</strong> Call 999 or report via the Dubai Police app immediately.</li>
-        </ul>
+        <p>Never open your wallet, bank app or cloud album on public WiFi. Use mobile data.</p>
+        <p>Turn off auto-connect. Ask hotel staff for the exact WiFi name.</p>
+        <p>At home: change the router’s default password. Use WPA3. Give guests a separate network. Update the router software.</p>
+        <p>If you must use public WiFi, turn on a VPN.</p>
+        <p>Keep large amounts in a hardware wallet. Never type your recovery words on any internet-connected device.</p>
+        <p>If blackmailed, do not pay. Call 999 or report via the Dubai Police app.</p>
 
         <div className="warning-takeaway-box">
           <p>
