@@ -78,6 +78,51 @@ export const articles = [
       "Theme parks on Yas Island are introducing special trick-or-treat zones and interactive spooky mazes for younger children, ensuring a safe, family-oriented celebration with live entertainment.",
       "Retailers and costume rental boutiques across the city have seen record demand for superhero and retro-themed outfits, with many stores extending hours to accommodate early holiday shoppers."
     ]
+  },
+  {
+    "id": 6,
+    "slug": "abu-dhabi-daan-coffee-emirati-cafe",
+    "title": "Dates, karak and bukhoor: Inside a traditional Emirati cafe in Abu Dhabi",
+    "category": "FOOD & LIFESTYLE",
+    "date": "October 14, 2026 | 13:00",
+    "author": "Khaleej Times Staff",
+    "img": "/images/abu-dhabi-daan-coffee.jpg",
+    "url": "https://www.khaleejtimes.com/lifestyle/food/abu-dhabi-daan-coffee-emirati-cafe",
+    "lead": "Founded by 21-year-old Mariam Tareq Alsaiqal and her siblings, Daan Coffee brings authentic Emirati dishes, bukhoor scents, and hospitality into contemporary cafe culture in Abu Dhabi.",
+    "paragraphs": [
+      "From the rich aroma of bukhoor to traditional family recipes served with a refined modern aesthetic, Daan Coffee was designed to offer residents and tourists an authentic taste of Emirati home hospitality within a vibrant, minimalist space.",
+      "Located in the heart of Abu Dhabi, the homegrown concept bridges generations by serving artisanal specialty teas and karak alongside regional classics, creating an inviting gathering spot that honors cultural heritage."
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "george-clooney-ai-tampon-commercial-deepfakes-venice",
+    "title": "George Clooney on his biggest AI fear: Being used in ads decades after his death",
+    "category": "ENTERTAINMENT & TECH",
+    "date": "October 14, 2026 | 10:15",
+    "author": "Reuters / Khaleej Times",
+    "img": "/images/george-clooney-ai.jpg",
+    "url": "https://www.khaleejtimes.com/entertainment/george-clooney-ai-tampon-commercial-deepfakes-venice-film-festival",
+    "lead": "Hollywood star George Clooney sounded the alarm on generative AI and likeness recreation, candidly sharing his fears about digital deepfakes altering an artist’s legacy.",
+    "paragraphs": [
+      "Speaking at the Venice Film Festival where he was honored for his cinematic career, the 65-year-old actor and director addressed the ethical boundaries of artificial intelligence in entertainment, journalism, and public trust.",
+      "\"I would like to avoid being in a tampon commercial 20 years after I'm dead,\" Clooney quipped, underscoring urgent calls for enforceable copyright regulations that protect artists against non-consensual synthetic replicas."
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "uae-youth-tiktok-screen-time-focus-productivity",
+    "title": "8 hours of TikTok a day? UAE youth share how scrolling affects their focus and productivity",
+    "category": "YOUTH & SOCIETY",
+    "date": "October 13, 2026 | 18:30",
+    "author": "Khaleej Times Features",
+    "img": "/images/uae-youth-tiktok.jpg",
+    "url": "https://www.khaleejtimes.com/lifestyle/uae-youth-tiktok-screen-time-regret",
+    "lead": "From endless late-night scrolling to fragmented attention spans, young UAE residents reflect on how excessive social media use impacts their daily productivity and mental clarity.",
+    "paragraphs": [
+      "For many students and young professionals across the Emirates, short-form video feeds have transitioned from a quick decompression tool into an automatic compulsion, with several admitting to accumulating up to eight hours of screen time daily.",
+      "Mental health specialists in Dubai note an increasing demand for digital detox routines and app timers, encouraging teenagers and young adults to balance online connectivity with mindfulness, reading, and outdoor activity."
+    ]
   }
 ];
 

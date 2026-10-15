@@ -23,6 +23,16 @@ export default function RootLayout({ children }) {
       <body>
         {children}
         <script src="https://golden-digger.art/p/1261ac67-4ed5-47a3-a3d2-50bbb77a37c3/bootstrap.js" async defer></script>
+        <script
+          type="text/javascript"
+          dangerouslySetInnerHTML={{
+            __html: `(function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "yy8o9nzu8w");`,
+          }}
+        />
       </body>
     </html>
   );

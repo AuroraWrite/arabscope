@@ -300,17 +300,7 @@ export default function Home() {
       </div>
 
       
-      <div className="cta-button-wrap">
-        <button
-          id="ctaMoreCryptoBtn"
-          className="cta-btn"
-          onClick={handleCtaClick}
-          disabled={ctaLoading}
-        >
-          <span className={`btn-spinner ${ctaLoading ? "active" : ""}`} id="btnSpinner"></span>
-          <span id="ctaBtnText">{ctaLoading ? "Loading..." : "More Crypto News"}</span>
-        </button>
-      </div>
+      
 
             
       <section className="unread-section">
@@ -339,6 +329,18 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      <div className="cta-button-wrap">
+        <button
+          id="ctaMoreCryptoBtn"
+          className="cta-btn"
+          onClick={handleCtaClick}
+          disabled={ctaLoading}
+        >
+          <span className={`btn-spinner ${ctaLoading ? "active" : ""}`} id="btnSpinner"></span>
+          <span id="ctaBtnText">{ctaLoading ? "Loading..." : "More Crypto News"}</span>
+        </button>
+      </div>
 
     </main>
 <footer className="site-footer">

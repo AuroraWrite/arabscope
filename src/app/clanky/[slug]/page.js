@@ -154,8 +154,7 @@ export default async function ArticlePage({ params }) {
           ))}
         </div>
 
-        {/* Black CTA Button (5-second redirect to CoinDesk) */}
-        <CtaButton />
+        
 
         {/* 3. Unread News Section */}
         <section className="unread-section">
@@ -188,6 +187,9 @@ export default async function ArticlePage({ params }) {
             ))}
           </div>
         </section>
+
+        {/* Black CTA Button (5-second redirect to CoinDesk) */}
+        <CtaButton />
       </main>
 
       {/* 4. Site Footer */}
